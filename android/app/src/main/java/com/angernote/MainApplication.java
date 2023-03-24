@@ -1,4 +1,4 @@
-package com.sayno;
+package com.angernote;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
